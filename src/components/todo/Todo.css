@@ -1,0 +1,56 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.main-div {
+    background-color: rgb(83, 63, 63);
+    width: 100%;
+    height: 98vh;
+    padding-top: 1%;
+}
+
+.prnt {
+    height: 91vh;
+    background-color: rgb(104, 86, 86);
+    padding: 5px;
+    margin: 1% auto;
+    width: 90%;
+    border-radius: 10px;
+}
+
+.todo-app {
+    background-color:rgba(255, 192, 203, 0.74);
+    color: rgb(161, 14, 14);
+    width: 11%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 3px;
+    border-radius: 8px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    gap: 25%;
+    padding-top: 5px;
+    color: white;
+}
+
+.s_n {
+    margin-left: 20px;
+}
+
+.addButton {
+    color: white;
+    background-color: teal;
+    display: flex;
+    padding: 14px;
+    margin: 0% auto;
+    margin-left: 90%;
+}
+
+.addButton:hover {
+    background-color: rgb(80, 180, 180);
+}

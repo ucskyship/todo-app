@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+form {
+    background-color: rgb(192, 99, 99);
+    width: 70%;
+    margin: 0px auto;
+    gap: 1px;
+    border-radius: 4px;
+    
+}
+
+.s-n {
+    /* background-color: rgba(216, 180, 218, 0.993); */
+    width: 65px;
+    text-align: center;
+    /* margin-left: -23%; */
+}
+
+.date {
+    margin-left: 6%;
+}
+
+.time {
+    margin-left: -7%;
+}
